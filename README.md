@@ -119,11 +119,12 @@ As an end user, I created the following ticket:
 Accounting department needs an Adobe upgrade; the current installation is broken.
 ```
 
-![Adobe Upgrade Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Adobe Upgrade Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6fec39dc-6ed5-42a3-a1b8-b88496ca3d62" />
+
 
 ### Ticket Review
 
-While signed in as **John**, I reviewed the following ticket properties:
+While signed in as **Emma**, I reviewed the following ticket properties:
 
 - Priority
 - Department
