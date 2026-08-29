@@ -202,9 +202,7 @@ As **Emma**, I worked the ticket to completion, recorded the troubleshooting per
 
 | Ticket | SLA | Department | Agent |
 |---|---|---|---|
-| Can't access the Finance shared folder | Sev-C: 8 hour, 24/7 | Support |
-| Accounting department needs an Adobe upgrade | Sev-C: 8 hours, 24/7 | Support | Emma |
-| CFO’s laptop will not turn on | Sev-C: 8 hours, 24/7 | Support | Emma |
+| Can't access the Finance shared folder | Sev-C: 8 hour, 24/7 | Support | Emma |
 
 ## Ticket Permissions and Escalation
 
