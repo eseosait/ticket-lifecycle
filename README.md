@@ -182,7 +182,7 @@ I updated the ticket with the following properties:
 
 | Property | Selection |
 |---|---|
-| Severity/SLA | Sev-C |
+| Default/SLA | Sev-C |
 | Grace Period | 8 hours |
 | Schedule | 24/7 |
 | Department | Support |
