@@ -146,9 +146,10 @@ The **Sev-B** SLA was appropriate because the broken application affected busine
 
 ### Resolution
 
-As **John**, I worked the ticket to completion, documented the actions taken, and closed the ticket after resolving the issue.
+As **Emma**, I worked the ticket to completion, documented the actions taken, and closed the ticket after resolving the issue.
 
-![Resolved Adobe Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Resolved Adobe Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d8dc2b3c-833a-411f-887c-a877bba572cd" />
+
 
 ---
 
