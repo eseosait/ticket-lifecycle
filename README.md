@@ -153,21 +153,23 @@ As **Emma**, I worked the ticket to completion, documented the actions taken, an
 
 ---
 
-## Ticket Example 3: CFO’s Laptop Will Not Turn On
+## Ticket Example 3: Can't access the Finance shared folder
 
 ### Ticket Intake
 
 As an end user, I created the following ticket:
 
 ```text
-CFO's laptop will no longer turn on.
+Can't access the Finance Shared folder
 ```
 
-![CFO Laptop Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Can't access the Finance shared folder Ticket]
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d26c46f7-b459-4900-84b2-0ba7534dc22e" />
+
 
 ### Ticket Review
 
-While signed in as **John**, I reviewed the following ticket properties:
+While signed in as **Emma**, I reviewed the following ticket properties:
 
 - Priority
 - Department
@@ -185,13 +187,14 @@ I updated the ticket with the following properties:
 | Schedule | 24/7 |
 | Department | Support |
 
-The **Sev-B** SLA was appropriate because the issue prevented an executive from using an essential work device and required a prompt response.
+The **Sev-C** SLA was appropriate because the issue prevented only one user from getting access to the shared folder.
 
 ### Resolution
 
-As **John**, I worked the ticket to completion, recorded the troubleshooting performed, and closed the ticket after resolving the issue.
+As **Emma**, I worked the ticket to completion, recorded the troubleshooting performed, and closed the ticket after resolving the issue.
 
-![Resolved Laptop Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Resolved Shared access folder Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/3fcb3297-f9f1-4d9e-8112-8eb2fb4afb57" />
+
 
 ---
 
@@ -199,19 +202,16 @@ As **John**, I worked the ticket to completion, recorded the troubleshooting per
 
 | Ticket | SLA | Department | Agent |
 |---|---|---|---|
-| Entire mobile/online banking system is down | Sev-A: 1 hour, 24/7 | Online Banking | Jane |
-| Accounting department needs an Adobe upgrade | Sev-B: 4 hours, 24/7 | Support | John |
-| CFO’s laptop will not turn on | Sev-B: 4 hours, 24/7 | Support | John |
+| Can't access the Finance shared folder | Sev-C: 8 hour, 24/7 | Support |
+| Accounting department needs an Adobe upgrade | Sev-C: 8 hours, 24/7 | Support | Emma |
+| CFO’s laptop will not turn on | Sev-C: 8 hours, 24/7 | Support | Emma |
 
 ## Ticket Permissions and Escalation
 
 I also tested osTicket’s role-based access behavior:
 
-1. I configured the tickets and handled the **Sev-A** ticket last.
-2. I switched to the Admin Panel.
-3. I assigned myself view access to the **SysAdmins** department.
-4. I returned to the Agent Panel and reviewed the escalated ticket.
-5. I observed how department permissions determined whether an agent could view or modify the ticket.
+1. I configured the tickets and handled the **Sev-C** ticket.
+
 
 This demonstrated how ticket visibility can change when tickets are transferred or escalated to different departments.
 
