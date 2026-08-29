@@ -116,10 +116,10 @@ I signed in as **Ikponmwosa**, worked the escalated ticket, documented the resol
 As an end user, I created the following ticket:
 
 ```text
-Accounting department needs an Adobe upgrade; the current installation is broken.
+Can't access the Finance Shared folder
 ```
 
-![Adobe Upgrade Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6fec39dc-6ed5-42a3-a1b8-b88496ca3d62" />
+![Can't access the Finance Shared folder Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6fec39dc-6ed5-42a3-a1b8-b88496ca3d62" />
 
 
 ### Ticket Review
@@ -148,7 +148,7 @@ The **Sev-B** SLA was appropriate because the broken application affected busine
 
 As **Emma**, I worked the ticket to completion, documented the actions taken, and closed the ticket after resolving the issue.
 
-![Resolved Adobe Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d8dc2b3c-833a-411f-887c-a877bba572cd" />
+![Resolved the Finance Shared folder Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d8dc2b3c-833a-411f-887c-a877bba572cd" />
 
 
 ---
@@ -182,8 +182,8 @@ I updated the ticket with the following properties:
 
 | Property | Selection |
 |---|---|
-| Severity/SLA | Sev-B |
-| Grace Period | 4 hours |
+| Severity/SLA | Sev-C |
+| Grace Period | 8 hours |
 | Schedule | 24/7 |
 | Department | Support |
 
