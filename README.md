@@ -67,7 +67,7 @@ This issue represented a business-critical outage affecting the organization’s
 
 ### Ticket Review
 
-While signed in as help desk agent **John**, I reviewed the ticket’s initial properties:
+While signed in as help desk agent **Emma**, I reviewed the ticket’s initial properties:
 
 - Priority
 - Department
@@ -87,19 +87,25 @@ I updated the ticket with the following properties:
 
 The **Sev-A** SLA was appropriate because a complete banking outage is a critical incident requiring immediate attention.
 
-![Sev-A Ticket Properties](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Sev-A Ticket Properties] <img width="2200" height="1429" alt="C0C57015-4043-4B06-9229-654C7A5D5805_1_102_o" src="https://github.com/user-attachments/assets/4da965a4-2f08-46b2-9c96-36c3ed78e024" />
 
 ### Department Access Test
 
 After assigning the ticket to the Online Banking department, I attempted to view it again as **John**.
 
 This demonstrated how department assignments and permissions affect whether an agent can view or modify a ticket.
+<img width="2200" height="1429" alt="927C12F7-4645-45F8-8DBD-52F3A098E3E7_1_102_o" src="https://github.com/user-attachments/assets/1c1ee654-60d1-4f20-8b86-6c0af0f9e1a1" />
+
 
 ### Resolution
 
-I signed in as **Jane**, worked the escalated ticket, documented the resolution, and closed it after completing the issue.
+I signed in as **Ikponmwosa**, worked the escalated ticket, documented the resolution, and closed it after completing the issue.
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0c59e842-ef35-48c7-b768-af62bc2433c4" />
+<img width="2200" height="1429" alt="0C939A1F-66AD-49DE-8AD9-0B92819D715D_1_102_o" src="https://github.com/user-attachments/assets/4e74bdc8-32db-4c5d-93a1-d6a268b5c96c" />
 
-![Resolved Banking Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+
+![Resolved Banking Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/9eaea41e-c824-48a9-9d95-33fc580de3d3" /> <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e5b47707-9b8d-4fb9-8354-3f75b3513080" />
+
 
 ---
 
