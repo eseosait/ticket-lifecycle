@@ -100,8 +100,8 @@ This demonstrated how department assignments and permissions affect whether an a
 ### Resolution
 
 I signed in as **Ikponmwosa**, worked the escalated ticket, documented the resolution, and closed it after completing the issue.
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0c59e842-ef35-48c7-b768-af62bc2433c4" />
 <img width="2200" height="1429" alt="0C939A1F-66AD-49DE-8AD9-0B92819D715D_1_102_o" src="https://github.com/user-attachments/assets/4e74bdc8-32db-4c5d-93a1-d6a268b5c96c" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0c59e842-ef35-48c7-b768-af62bc2433c4" />
 
 
 ![Resolved Banking Ticket] <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/9eaea41e-c824-48a9-9d95-33fc580de3d3" /> <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e5b47707-9b8d-4fb9-8354-3f75b3513080" />
