@@ -47,8 +47,6 @@ Before creating the tickets, I completed the following administrative changes:
 - Changed the **SysAdmins** department into a top-level department.
 - Deleted the **Maintenance** department instead of archiving it.
 
-![Department Configuration] <img width="2240" height="1403" alt="4C69C177-286B-494C-B5CA-348AA2960B9A_1_102_a" src="https://github.com/user-attachments/assets/23a456d3-02ff-4610-81c1-381b7e260fe1" />
-
 
 ---
 
@@ -64,7 +62,8 @@ Entire mobile/online banking system is down.
 
 This issue represented a business-critical outage affecting the organization’s online banking services and potentially many customers.
 
-![Banking Outage Ticket](https://github.com/user-attachments/assets/ADD-YOUR-IMAGE-LINK-HERE)
+![Banking Outage Ticket] <img width="2240" height="1403" alt="4C69C177-286B-494C-B5CA-348AA2960B9A_1_102_a" src="https://github.com/user-attachments/assets/738a1114-7788-45e1-a87d-be91a4e51cc2" />
+
 
 ### Ticket Review
 
